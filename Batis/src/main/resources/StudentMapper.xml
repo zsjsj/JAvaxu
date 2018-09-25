@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 定义名字空间 -->
+<mapper namespace="student">
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        insert into students(sname) values(#{name})
+    </insert>
+    <!--<select id="selectOne" resultMap="rmStudents">-->
+      <!--select s.id sid ,s.sname sname,t.id tid,t.tname tname-->
+      <!--from students s-->
+      <!--right outer join relation r on r.sid = s.id-->
+      <!--left outer join teachers t on t.id=r.tid-->
+      <!--where t.id=#{id}-->
+    <!--</select>-->
+    <!--<resultMap id="rmStudents" type="_Student">-->
+        <!--<id column="sid" property="id"/>-->
+        <!--<result column="sname" property="name" />-->
+    <!--</resultMap>-->
+</mapper>

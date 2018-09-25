@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a349b5aa-8a96-4011-b186-129ad9de3872" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/firstDay/target/" />
+    <ignored path="$PROJECT_DIR$/IMp/target/" />
+    <ignored path="$PROJECT_DIR$/Batis/target/" />
+    <ignored path="$PROJECT_DIR$/..///////上课资料/feiq/Recv Files/mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/..//////上课资料/feiq/Recv Files/myspring/target/" />
+    <ignored path="$PROJECT_DIR$/..//////上课资料/feiq/Recv Files/myspring(1)/target/" />
+    <ignored path="$PROJECT_DIR$/..//////上课资料/feiq/Recv Files/mybatis(3)/target/" />
+    <ignored path="$PROJECT_DIR$/代码/mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/代码/myspring/target/" />
+    <ignored path="$PROJECT_DIR$/老师项目/mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/老师项目/myspring/target/" />
+    <ignored path="$PROJECT_DIR$/SpringMybatis/target/" />
+    <ignored path="$PROJECT_DIR$/老师项目/sm/target/" />
+    <ignored path="$PROJECT_DIR$/老师项目/springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/mySpringmvc/target/" />
+    <ignored path="$PROJECT_DIR$/ssm/target/" />
+    <ignored path="$PROJECT_DIR$/ssm1/target/" />
+    <ignored path="$PROJECT_DIR$/老师项目/ssm/target/" />
+    <ignored path="$PROJECT_DIR$/myHadoop/target/" />
+    <ignored path="$PROJECT_DIR$/老师项目/myhadoop/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JAvaxu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="APP.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalJobRunner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.3/hadoop-mapreduce-client-common-2.7.3-sources.jar!/org/apache/hadoop/mapred/LocalJobRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6200">
+              <caret line="316" selection-start-line="316" selection-end-line="316" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyReduce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyReduce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReduceContextImpl.java" pinned="false" current-in-tab="false">
+        <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/task/ReduceContextImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7625">
+              <caret line="353" selection-start-line="353" selection-end-line="353" />
+              <folding>
+                <element signature="e#12475#12476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComboKey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/ComboKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGroupComparator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyGroupComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="45" column="72" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGroupComparator1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyGroupComparator1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+              <folding>
+                <element signature="e#365#366#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reducer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/Reducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3675">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComKey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/ComKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1822#1823#0" expanded="true" />
+                <element signature="e#1849#1850#0" expanded="true" />
+                <element signature="e#1886#1887#0" expanded="true" />
+                <element signature="e#1918#1919#0" expanded="true" />
+                <element signature="e#1950#1951#0" expanded="true" />
+                <element signature="e#1978#1979#0" expanded="true" />
+                <element signature="e#2020#2021#0" expanded="true" />
+                <element signature="e#2054#2055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IEnd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ssm/src/main/java/com/oldboy/ssm/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ssm/src/test/java/TestDataSource.java" />
+        <option value="$PROJECT_DIR$/ssm/web/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/ssm/src/main/java/com/oldboy/ssm/web/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/ssm/web/jsps/index.jsp" />
+        <option value="$PROJECT_DIR$/ssm/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ssm1/pom.xml" />
+        <option value="$PROJECT_DIR$/老师项目/myspring/src/main/java/com/oldboy/spring/service/ByeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/老师项目/myspring/src/main/java/com/oldboy/spring/service/WelcomService.java" />
+        <option value="$PROJECT_DIR$/老师项目/myspring/src/main/java/com/oldboy/spring/service/WelcomeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/老师项目/myspring/src/main/java/com/oldboy/spring/service/ByeService.java" />
+        <option value="$PROJECT_DIR$/老师项目/ssm/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/myHadoop/pom.xml" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyPartation.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/APP.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/mapper/MapJoinApp.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/secondarysort/SortApp.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/test/java/secondarysort/MyHashPartitionTest.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/total2/PassMapper.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/total2/PassReducer.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/total2/PassApp.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/secondarysort/MyHashPartition.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/Mykey.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/secondarysort/CompKey.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/secondarysort/SortReducer.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/CompKey.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyMapper.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyReduce.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/CountApp.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyReduce.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyGroupComparator.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyMapper.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/MyHashPartition.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/HightestTem/CountApp.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/secondarysort/MyGroupComparator.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyGroupComparator.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyReduce.java" />
+        <option value="$PROJECT_DIR$/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/App.java" />
+        <option value="$PROJECT_DIR$/老师项目/myspring/src/main/java/com/oldboy/spring/service/ByeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/ComboKey.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/APPnew.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/Appnew.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyMapper.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/APP.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/ComKey.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyMapper.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyReduce.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyGroupComparator1.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/APP.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyGroupComparator.java" />
+        <option value="$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/ComKey.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\工作\repository" />
+        <option name="mavenHome" value="D:/Myprograme/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Myprograme\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="37" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAvaxu" type="58d84e3e:PackageViewProjectNode" />
+              <item name="IMp" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAvaxu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAvaxu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Lo&#9;FILE&#9;jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.3/hadoop-mapreduce-client-common-2.7.3-sources.jar!/org/apache/hadoop/mapred/LocalJobRunner.java&#10;DirectByteBuffer&#9;PSI&#9;JAVA://java.nio.DirectByteBuffer" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/firstDay/src" />
+    <property name="last_opened_file_path" value="D:/Myprograme/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.253493" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="secondarysort" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JAvaxu\myHadoop\src\main\java" />
+      <recent name="F:\JAvaxu\ssm\web\jsps" />
+      <recent name="F:\JAvaxu\mySpringmvc\web" />
+      <recent name="F:\JAvaxu\mySpringmvc\web\WEB-INF\jsps" />
+      <recent name="F:\JAvaxu\src\mybatis\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ReduceJoin" />
+      <recent name="HightestTem" />
+      <recent name="com.oldboy.ssm.web.controller" />
+      <recent name="" />
+      <recent name="com.oldboy.ssm.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAvaxu\ssm1\src\main\resources" />
+      <recent name="F:\JAvaxu\ssm1" />
+      <recent name="F:\JAvaxu\ssm1\src\main\java" />
+      <recent name="F:\JAvaxu\ssm1\web\WEB-INF" />
+      <recent name="F:\JAvaxu\ssm1\web\jsps" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="util" />
+      <recent name="Reflect" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.APP (1)">
+    <configuration name="APP (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReduceJoin.APP" />
+      <module name="myHadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReduceJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="APPnew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReduceJoin.APPnew" />
+      <module name="myHadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReduceJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReduceJoin.App" />
+      <module name="myHadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReduceJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oldboy.hadoop.mr.fulljoin.reduce.App" />
+      <module name="myhadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oldboy.hadoop.mr.fulljoin.reduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Appnew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReduceJoin.Appnew" />
+      <module name="myHadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReduceJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="ssm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="ssm1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JAvaxu_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54449" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.ssm" />
+      <item itemvalue="Application.APP (1)" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.APPnew" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.Appnew" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.APP (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Appnew" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.APPnew" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a349b5aa-8a96-4011-b186-129ad9de3872" name="Default" comment="" />
+      <created>1536112559196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536112559196</updated>
+      <workItem from="1536112563792" duration="5165000" />
+      <workItem from="1536119242468" duration="16609000" />
+      <workItem from="1536193808636" duration="22851000" />
+      <workItem from="1536279458002" duration="13597000" />
+      <workItem from="1536459533902" duration="8959000" />
+      <workItem from="1536539555903" duration="12165000" />
+      <workItem from="1536565223531" duration="13646000" />
+      <workItem from="1536625196074" duration="12136000" />
+      <workItem from="1536645875960" duration="19943000" />
+      <workItem from="1536711653351" duration="30808000" />
+      <workItem from="1536798526078" duration="27779000" />
+      <workItem from="1536886827422" duration="11153000" />
+      <workItem from="1537060276915" duration="25845000" />
+      <workItem from="1537144433867" duration="25033000" />
+      <workItem from="1537238917746" duration="16330000" />
+      <workItem from="1537438668578" duration="14067000" />
+      <workItem from="1537489530939" duration="19458000" />
+      <workItem from="1537512502954" duration="9676000" />
+      <workItem from="1537839999048" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMany2many_testInsertW - 2018.09.17 at 19h 53m 18s.xml">
+      <configuration name="TestMany2many.testInsertW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMany2many_testInsertW - 2018.09.17 at 19h 54m 00s.xml">
+      <configuration name="TestMany2many.testInsertW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMany2many_testInsertW - 2018.09.17 at 20h 02m 28s.xml">
+      <configuration name="TestMany2many.testInsertW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMany2many_testInsertW - 2018.09.17 at 20h 09m 04s.xml">
+      <configuration name="TestMany2many.testInsertW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMany2many_testInsertW - 2018.09.17 at 20h 09m 35s.xml">
+      <configuration name="TestMany2many.testInsertW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMany2many_testInsertW - 2018.09.17 at 20h 10m 14s.xml">
+      <configuration name="TestMany2many.testInsertW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSource_test1 - 2018.09.18 at 14h 52m 01s.xml">
+      <configuration name="TestDataSource.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSource_test1 - 2018.09.18 at 14h 53m 14s.xml">
+      <configuration name="TestDataSource.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSource_testSelect - 2018.09.18 at 15h 00m 32s.xml">
+      <configuration name="TestDataSource.testSelect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSource_testSelect - 2018.09.18 at 15h 01m 03s.xml">
+      <configuration name="TestDataSource.testSelect" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="306214000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="30" y="0" width="1400" height="776" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32894737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.5053996" side_tool="true" weight="0.0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45498392" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3279743" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45016077" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49460045" side_tool="true" visible="true" weight="0.31445605" />
+      <window_info id="Web" order="2" side_tool="true" weight="0.32935917" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="2" sideWeight="0.50108933" side_tool="true" weight="0.17828418" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49932975" weight="0.31993568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="JavaEE:App" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3260234" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32894737" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5745614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50108933" side_tool="true" weight="0.17828418" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.32456142" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49460045" side_tool="true" visible="true" weight="0.29088473" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="JavaEE:App" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.5053996" side_tool="true" weight="0.20509383" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3260234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45614034" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.3/hadoop-mapreduce-client-common-2.7.3-sources.jar!/org/apache/hadoop/mapred/LocalJobRunner.java</url>
+          <line>559</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.3/hadoop-mapreduce-client-common-2.7.3-sources.jar!/org/apache/hadoop/mapred/LocalJobRunner.java</url>
+          <line>329</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myHadoop/src/main/java/ReduceJoin/MyReduce.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="204" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>numReduceTasks</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>split</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pathString</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>instance</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ConnectionPool.getinstance().getConnection()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ConnectionPool.getinstance().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ConnectionPool.getinstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myspring/src/main/java/com/oldboy/spring/service/ByeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/task/JobContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/input/TextInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/split/JobSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-964">
+          <caret line="1262" selection-start-line="1262" selection-end-line="1262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/fs/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/serializer/SerializationFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/Appnew.java" />
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="132" column="27" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/CIDPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/CIDGroupComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/TaskID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/TaskID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/TaskAttemptID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/TaskAttemptID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.3/hadoop-mapreduce-client-common-2.7.3-sources.jar!/org/apache/hadoop/mapred/LocalJobRunnerMetrics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar!/org/apache/commons/collections/map/AbstractMapDecorator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="574" column="33" selection-start-line="574" selection-start-column="33" selection-end-line="574" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/util/Progress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Myprograme/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="511" selection-start-line="511" selection-end-line="511" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Myprograme/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="254" column="23" selection-start-line="254" selection-start-column="23" selection-end-line="254" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Myprograme/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="1156" selection-start-line="1156" selection-end-line="1156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/JobConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="1342" column="34" selection-start-line="1342" selection-start-column="34" selection-end-line="1342" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Myprograme/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Myprograme/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="2869" selection-start-line="2869" selection-end-line="2869" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/NullWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/fs/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="3155" selection-start-line="3155" selection-end-line="3155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/MapTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="534" selection-start-line="534" selection-end-line="534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/task/MapContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/map/WrappedMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/ComboKey2SortComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/JoinMapper2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/BinaryComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="449" selection-start-line="449" selection-end-line="449" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/ReduceTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="628" selection-start-line="628" selection-end-line="628" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="979" selection-start-line="979" selection-end-line="979" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.3/hadoop-mapreduce-client-common-2.7.3-sources.jar!/org/apache/hadoop/mapred/LocalJobRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6200">
+          <caret line="316" selection-start-line="316" selection-end-line="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyGroupComparator1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/ComboKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/src/main/java/com/oldboy/hadoop/mr/fulljoin/reduce/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyGroupComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="45" column="72" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/task/ReduceContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7625">
+          <caret line="353" selection-start-line="353" selection-end-line="353" />
+          <folding>
+            <element signature="e#12475#12476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/工作/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/Reducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/MyReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/ComKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+            <element signature="e#1886#1887#0" expanded="true" />
+            <element signature="e#1918#1919#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="e#2020#2021#0" expanded="true" />
+            <element signature="e#2054#2055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAvaxu/myHadoop/src/main/java/ReduceJoin/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ssm1:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.253493" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Batis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.253493" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: bouncycastle:bcprov-jdk14:138</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

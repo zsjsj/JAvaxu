@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Batis/Batis.iml" filepath="$PROJECT_DIR$/Batis/Batis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMp/IMp.iml" filepath="$PROJECT_DIR$/IMp/IMp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAvaxu.iml" filepath="$PROJECT_DIR$/JAvaxu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMybatis/SpringMybatis.iml" filepath="$PROJECT_DIR$/SpringMybatis/SpringMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstDay/firstDay.iml" filepath="$PROJECT_DIR$/firstDay/firstDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAvaxu/myHadoop/myHadoop.iml" filepath="$PROJECT_DIR$/../JAvaxu/myHadoop/myHadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySpringmvc/mySpringmvc.iml" filepath="$PROJECT_DIR$/mySpringmvc/mySpringmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/老师项目/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/老师项目/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/myhadoop.iml" filepath="$PROJECT_DIR$/../JAvaxu/老师项目/myhadoop/myhadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/老师项目/myspring/myspring.iml" filepath="$PROJECT_DIR$/老师项目/myspring/myspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/老师项目/sm/sm.iml" filepath="$PROJECT_DIR$/老师项目/sm/sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/老师项目/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/老师项目/springmvc/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/老师项目/ssm/ssm.iml" filepath="$PROJECT_DIR$/老师项目/ssm/ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm1/ssm1.iml" filepath="$PROJECT_DIR$/ssm1/ssm1.iml" />
+    </modules>
+  </component>
+</project>

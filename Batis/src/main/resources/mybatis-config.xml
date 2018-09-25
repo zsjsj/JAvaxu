@@ -1,0 +1,41 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties>
+        <property name="driver" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/big12"/>
+        <property name="username" value="root"/>
+        <property name="password" value="512719"/>
+    </properties>
+    <typeAliases>
+        <typeAlias type="batisTest.User" alias="_User"/>
+        <typeAlias type="batisTest.Order" alias="_Order"/>
+        <typeAlias type="homeWork.Husband" alias="_Husband"/>
+        <typeAlias type="homeWork.Wife" alias="_Wife"/>
+        <typeAlias type="homeWork.Relation" alias="_Relation"/>
+        <typeAlias type="homeWork.Student" alias="_Student"/>
+        <typeAlias type="homeWork.Teacher" alias="_Teacher"/>
+    </typeAliases>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="UserMapper.xml"/>
+        <mapper resource="OrderMapper.xml"/>
+        <mapper resource="husbandMapper.xml"/>
+        <mapper resource="WifeMapper.xml"/>
+        <mapper resource="TeacherMapper.xml"/>
+        <mapper resource="RelationMapper.xml"/>
+        <mapper resource="StudentMapper.xml"/>
+    </mappers>
+</configuration>

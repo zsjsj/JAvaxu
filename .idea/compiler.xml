@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Batis" />
+        <module name="firstDay" />
+        <module name="IMp" />
+        <module name="mybatis" />
+        <module name="myhadoop" />
+        <module name="myHadoop" />
+        <module name="myspring" />
+        <module name="mySpringmvc" />
+        <module name="sm" />
+        <module name="springmvc" />
+        <module name="SpringMybatis" />
+        <module name="ssm" />
+        <module name="ssm1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Batis" target="1.5" />
+      <module name="firstDay" target="7" />
+      <module name="IMp" target="7" />
+      <module name="mybatis" target="1.5" />
+      <module name="mybatis (1)" target="1.5" />
+      <module name="myhadoop" target="1.5" />
+      <module name="myHadoop" target="1.5" />
+      <module name="myspring" target="1.5" />
+      <module name="mySpringmvc" target="1.5" />
+      <module name="sm" target="1.5" />
+      <module name="springmvc" target="1.5" />
+      <module name="SpringMybatis" target="1.5" />
+      <module name="ssm" target="1.5" />
+      <module name="ssm1" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
